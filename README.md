@@ -14,3 +14,7 @@ The goal of the project is to practice **input(), string handling, and printing*
 - String concatenation  
 
 ## ▶️ Example Output
+Welcome to the Band Name Generator!
+What's the name of the city you grew up in? Tashkent
+What's your pet's name? Leo
+Your band name could be: Tashkent Leo
